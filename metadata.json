@@ -1,0 +1,8 @@
+{
+  "name": "EmpowerHer Coach",
+  "description": "A women-centric AI career mentoring platform focused on career growth, returners, and tech transitions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
